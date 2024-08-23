@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"><a href="https://github.com/yator33"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm  Yator  Felix(💻💖☕).. ⚡ I am a...
    <a href="https://github.com/yator33">
-   <br>
-   <br>
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=A+Full+Stack+Developer+Especially+FrontEnd" />
+   
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=550%&lines=A+Full+Stack+Developer+Especially+FrontEnd" />
    </a>
 </h1>
 <div align=center>
