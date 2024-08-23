@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
    </a>
 </div>
 
-<h1 align="center"><a href="https://github.com/yator33"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Felix Yator(💻💖☕).. ⚡ I am a...
+<h1 align="center"><a href="https://github.com/yator33"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Yator  Felix(💻💖☕).. ⚡ I am a...
    <a href="https://github.com/yator33">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer" />
    </a>
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
       <br>      
       👯 I’m looking to collaborate on:
       <a href="https://github.com/yator33">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=API+Developments;Web+App+Projects+AND;Desktop+App+Developments" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=React+Projects;Web+App+Projects+AND;Backend+Developments" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/yator33">
