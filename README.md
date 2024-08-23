@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
    </a>
 </div>
 
-<h1 align="center"><a href="https://github.com/yator33"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Felix Yator(💻💖☕).. ⚡ I am a...
+<h1 align="center"><a href="https://github.com/yator33"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm  Yator  Felix(💻💖☕).. ⚡ I am a...
    <a href="https://github.com/yator33">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer+Especially+FrontEnd" />
    </a>
 </h1>
 <div align=center>
@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
       <br>      
       👯 I’m looking to collaborate on:
       <a href="https://github.com/yator33">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=API+Developments;Web+App+Projects+AND;Desktop+App+Developments" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=API+Developments;React+Projects+AND;Backend+Developments" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/yator33">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;My+Projects;Cyber+Sec" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;My+Projects;React+Majorly+Frontend" /></a>
    </h4>
 </div>
 
@@ -42,15 +42,15 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+     <!-- <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; -->
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+     <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp; -->
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+     <!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp; -->
    <br>
           <a href="https://github.com/yator33">
               <img height=20 width=10% src="static/divider.gif">
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
      <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
      <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> &nbsp;&nbsp;
      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> &nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+     <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; -->
      <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
      <img alt="MS Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
    
@@ -81,14 +81,14 @@ You can click the Preview link to take a look at your changes.
 <br> -->
 
 <p>
-  <a href="https://yator33.netlify.app/" target="_blank">
+  <!-- <a href="https://yator33.netlify.app/" target="_blank">
 <img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Progress&url=https%3A%2F%2FRoro1839.netlify.app/" />
-</a>
+</a> -->
    
    <br>
    <br>
    <a href="https://twitter.com/feloyator" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/_Roro1839)](https://twitter.com/_Roro1839"/>
+<img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/_feloyator)](https://twitter.com/_feloyator"/>
 </a>
    <br>
    <br>
@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
    
 <h3 align="center"><a href="https://github.com/yator33"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
 <div align=center>
-   <a href="mailto: cherutichfelix28@gmail.com" target="_blank">
+   <a href="mailMe: cherutichfelix28@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=cherutichfelix28@gmail.com" />
    </a>
  </div>
