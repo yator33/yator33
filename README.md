@@ -2,7 +2,7 @@
 yator33/yator33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--Made By Roro1839-->
+<!--Made By DevYator-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
 <div align=center>
    <a href="https://github.com/yator33">
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;  
-      <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a338769b-708b-40a5-a3db-636444571937" />&nbsp;&nbsp;   
+      <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/a338769b-708b-40a5-a3db-636444571937" />&nbsp;&nbsp;   
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
